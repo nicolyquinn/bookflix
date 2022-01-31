@@ -158,7 +158,7 @@ header nav a:hover{
 /* livro destaque */
 
 .livrodestaque {
-    background: url('/img/capa.png');
+    background: url('../img/capa.png');
     height: 748px;
     background-size: cover;
     background-position: center;
